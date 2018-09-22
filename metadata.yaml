@@ -6,6 +6,9 @@ contributor:
     alias: Cooper, A. W. (Alfred W.)
     gutenberg_agent_id: '9889'
     url: http://www.gutenberg.org/2009/agents/9889
+covers:
+- cover_type: archival
+  image_path: 55338-h/images/cover.jpg
 creator:
   author:
     agent_name: Buchanan, Robert Williams
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '44813'
     url: http://www.gutenberg.org/2009/agents/44813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55338#The-Martyrdom-of-Madeline
 gutenberg_issued: '2017-08-11'
 gutenberg_type: Text
 identifiers:
